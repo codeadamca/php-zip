@@ -2,6 +2,8 @@
 
 A basic example of adding a list of files to a Zip file. 
 
+This code requires that the PHP extension php-zip be installed. 
+
 ## Tutorial Requirements:
 
 * [Visual Studio Code](https://code.visualstudio.com/)
